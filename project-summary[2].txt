@@ -1,0 +1,20 @@
+Sweet Crumbs Bakery - Project Summary
+
+Business: A local bakery offering homemade cakes and sweets.
+
+Website Goals:
+- Showcase products visually
+- Allow customers to get contact info
+- Share the bakery's story
+
+Features:
+- Homepage with intro and product images
+- About Us page
+- Contact form
+
+Target Audience:
+- Local customers, young adults, families
+
+Tools Used:
+- HTML, CSS
+- Hosted on GitHub Pages

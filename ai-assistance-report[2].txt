@@ -1,0 +1,10 @@
+AI Assistance Report
+
+I used AI to:
+- Generate the initial layout for the website
+- Suggest wording for About Us and homepage
+- Style the pages using responsive CSS
+- Create a gallery layout and contact form
+- Guide me through GitHub Pages hosting
+
+All decisions and changes were reviewed and customized by me.
